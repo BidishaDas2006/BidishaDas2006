@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on Machine Learning projects using Python,  Data analysis and visualization with Pandas, NumPy, Matplotlib & Seaborn, Beginner-to-intermediate ML models (Regression, Classification, Clustering)<br>👯Looking to collaborate on ML, Data Analysis & Open-source projects<br>🤝Looking for help with Advanced machine learning concepts and model improvement<br>🌱Currently learning Machine Learning algorithms, Basics of Deep Learning, Data Science<br>💬Ask me about Python, ML basics, Data Science<br>⚡Fun fact : I like experimenting with datasets to discover hidden patterns 📊<br><br>
+🔭I'm currently working on Machine Learning projects using Python,  Data analysis and visualization with Pandas, NumPy, Matplotlib & Seaborn, Beginner-to-intermediate ML models (Regression, Classification, Clustering)<br>👯Looking to collaborate on ML, Data Science & Open-source projects<br>🤝Looking for help with Advanced machine learning concepts and model improvement<br>🌱Currently learning Machine Learning algorithms, Basics of Deep Learning, Data Science<br>💬Ask me about Python, ML basics, Data Science<br>⚡Fun fact : I like experimenting with datasets to discover hidden patterns 📊<br><br>
 
 
 ## 🌐 Socials:
